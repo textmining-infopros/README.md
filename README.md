@@ -1,7 +1,7 @@
 ## Hi there, This account is developed and maintained by Manika Lamba👋
  [![Website](https://img.shields.io/website?label=textmining-inforpros&style=for-the-badge&url=https%3A%2F%2Ftextmining-infopros.github.io)](https://textmining-infopros.github.io)
  [![Twitter Follow](https://img.shields.io/twitter/follow/lamba_manika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lamba_manika)
-
+ 
 ### About
 It contains code, data, and Jupyter Notebooks for the case studies for the book __"Text Mining for Information Professionals: An Uncharted Territory"__. This book focuses on a basic theoretical framework dealing with the problems, solutions, and applications of text mining and its various facets in a very practical form of case studies, use cases, and stories.
 
@@ -11,9 +11,12 @@ From understanding different types and forms of data to case studies showing the
 
 - 🔭 Springer Website: https://www.springer.com/in/book/9783030850845
 - 🔭 Authors' Book Website: https://textmining-infopros.github.io/
-- 👯 Twitter: @lamba_manika
+- 👯 Twitter: [@lamba_manika](https://twitter.com/lamba_manika)
 - 📫 How to reach me: lambamanika07@gmail.com
 - 😄 Pronouns: She/her
+
+![alt text](https://github.com/textmining-infopros/textmining-infopros/blob/main/cover_lamba.jpg)
+
 
 ### About the Authors
 [__Manika Lamba__](https://manika-lamba.github.io) is a Ph.D. candidate at the Department of Library and Information Science, University of Delhi, India. She is currently serving as the Editor-in-Chief of the International Journal of Library and Information Services (IJLIS), the Elected Standing Committee Member for IFLA Science and Technology Libraries Section, and Newsletter Officer for ASIS&T South Asia Chapter. She was Editor-at-large for dh+lib (an ACRL Digital Humanities Interest Group project) and was featured in the Information Professionals Share their Top Tips for 2019 blog by the Copyright Clearance Center (CCC). She is an active reviewer for more than 17 international journals, including IEEE Access, Scientometrics, Library Hi-Tech, and the Journal of Information Science. Her scholarship focuses on the intersections of computational social science, social informatics, information retrieval, services, and management.
