@@ -38,7 +38,7 @@ From understanding different types and forms of data to case studies showing the
 
 ### Hex Stickers
 
-<img src="https://github.com/textmining-infopros/textmining-infopros.github.io/blob/main/project/clustering/featured-hex.png" width="250" height="300">
+<img src="https://github.com/textmining-infopros/chapter1/blob/master/clustering-hex.png" width="350" height="400">
 
 
 
