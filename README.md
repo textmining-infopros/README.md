@@ -18,7 +18,6 @@ From understanding different types and forms of data to case studies showing the
 
 ![alt text](https://github.com/textmining-infopros/textmining-infopros/blob/main/cover_lamba.jpg)
 
- <br>
  
 ### Authors
 
