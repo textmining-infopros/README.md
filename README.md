@@ -23,6 +23,12 @@ From understanding different types and forms of data to case studies showing the
 
 [__Margam Madhusudhan__](http://atfi.dlis.du.ac.in/drmadhusudhan.php) is currently working as a Professor in the Department of Library and Information Science, University of Delhi, India. He has worked as Deputy Dean Academics and Member of Academic Council at the University of Delhi. He is a member of many academic bodies, editorial board of national and international LIS journals. He is the recipient of the "Award for Excellence" (Highly Commended) in 2019, “Excellence in Research” in 2017, P.V. Verghese Award in 2013. He has 22 years of teaching, administration, and research experience at the university level.
 
+### Hex Stickers
+
+<img src="https://github.com/textmining-infopros/textmining-infopros.github.io/blob/main/project/clustering/featured-hex.png" width="250" height="300">
+
+
+
 
 </details>
 
