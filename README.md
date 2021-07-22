@@ -38,7 +38,8 @@ From understanding different types and forms of data to case studies showing the
 
 ### Hex Stickers
 
-<img src="https://github.com/textmining-infopros/chapter1/blob/master/clustering-hex.png" width="100" height="125"> <img src="https://github.com/textmining-infopros/chapter4/blob/master/topic-modeling-hex.png" width="100" height="125"> <img src="https://github.com/textmining-infopros/chapter5/blob/master/network-text-analysis-hex.png" width="100" height="125"> <img src="https://github.com/textmining-infopros/chapter6/blob/master/burst-detection-hex.png" width="100" height="125">
+<img src="https://github.com/textmining-infopros/chapter1/blob/master/clustering-hex.png" width="100" height="125"> <img src="https://github.com/textmining-infopros/chapter4/blob/master/topic-modeling-hex.png" width="100" height="125"> <img src="https://github.com/textmining-infopros/chapter5/blob/master/network-text-analysis-hex.png" width="100" height="125"> <img src="https://github.com/textmining-infopros/chapter6/blob/master/burst-detection-hex.png" width="100" height="125"> <img src="https://github.com/textmining-infopros/chapter7/blob/master/sentiment-analysis-hex.png" width="100" height="125">
+
 
 
 
