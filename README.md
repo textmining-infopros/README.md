@@ -4,7 +4,7 @@
  
  
 ### About 
-It contains code, data, and Jupyter Notebooks for the case studies for the book __"Text Mining for Information Professionals: An Uncharted Territory"__. This book focuses on a basic theoretical framework dealing with the problems, solutions, and applications of text mining and its various facets in a very practical form of case studies, use cases, and stories.
+The repository contains code, data, and Jupyter Notebooks for the case studies for the book __"Text Mining for Information Professionals: An Uncharted Territory"__. This book focuses on a basic theoretical framework dealing with the problems, solutions, and applications of text mining and its various facets in a very practical form of case studies, use cases, and stories.
 
 The book contains 11 chapters with 14 case studies showing 8 different text mining and visualization approaches, and 17 stories. In addition, both a website and a Github account are also maintained for the book. They contain the code, data, and notebooks for the case studies; a summary of all the stories shared by the librarians/faculty; and hyperlinks to open an interactive virtual RStudio/Jupyter Notebook environment. The interactive virtual environment runs case studies based on the R programming language for hands-on practice in the cloud without installing any software.
 
@@ -18,6 +18,22 @@ From understanding different types and forms of data to case studies showing the
 
 ![alt text](https://github.com/textmining-infopros/textmining-infopros/blob/main/cover_lamba.jpg)
 
+### Chapters
+
+- Chapter 1: The Computational Library
+- Chapter 2: Text Data and Where to Find Them?
+- Chapter 3: Text Pre-Processing
+- Chapter 4: Topic Modeling
+- Chapter 5: Network Text Analysis
+- Chapter 6: Burst Detection
+- Chapter 7: Sentiment Analysis
+- Chapter 8: Predictive Modeling
+- Chapter 9: Information Visualization
+- Chapter 10: Tools and Techniques for Text Mining and Visualizations
+- Chapter 11: Text Data and Mining Ethics
+- Appendix A: Online Repositories Available for Text Mining
+- Appendix B: Language Corpora Available for Text Mining
+- Appendix C: Text Data and Mining Licensing Conditions
  
 ### Authors
 
