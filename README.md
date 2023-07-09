@@ -21,19 +21,25 @@ From understanding different types and forms of data to case studies showing the
 ### Chapters
 
 - [Chapter 1: The Computational Library](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_1)
+   - [Case Study: Clustering of Documents using Two Different Tools](https://github.com/textmining-infopros/chapter1) [![DOI](https://zenodo.org/badge/296729259.svg)](https://zenodo.org/badge/latestdoi/296729259) 
 - [Chapter 2: Text Data and Where to Find Them?](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_2)
 - [Chapter 3: Text Pre-Processing](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_3)
 - [Chapter 4: Topic Modeling](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_4)
+   - [Case Study: Topic Modeling of Documents using Three Different Tools](https://github.com/textmining-infopros/chapter4) [![DOI](https://zenodo.org/badge/296715177.svg)](https://zenodo.org/badge/latestdoi/296715177)
 - [Chapter 5: Network Text Analysis](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_5)
+   - [Case Study: Network Text Analysis of Documents using Two Different R Packages](https://github.com/textmining-infopros/chapter5) [![DOI](https://zenodo.org/badge/296730353.svg)](https://zenodo.org/badge/latestdoi/296730353)
 - [Chapter 6: Burst Detection](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_6)
+   - [Case Study: Burst Detection of Documents using Two Different Tools](https://github.com/textmining-infopros/chapter6) [![DOI](https://zenodo.org/badge/296730532.svg)](https://zenodo.org/badge/latestdoi/296730532)
 - [Chapter 7: Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_7)
+   - [Case Study: Sentiment Analysis of Documents using Two Different Tools](https://github.com/textmining-infopros/chapter7) [![DOI](https://zenodo.org/badge/296730607.svg)](https://zenodo.org/badge/latestdoi/296730607)
 - [Chapter 8: Predictive Modeling](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_8)
+  - [Case Study: Predictive Modeling of Documents using RapidMiner](https://github.com/textmining-infopros/chapter8) [![DOI](https://zenodo.org/badge/296730732.svg)](https://zenodo.org/badge/latestdoi/296730732)
 - [Chapter 9: Information Visualization](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_9)
-- Chapter 10: Tools and Techniques for Text Mining and Visualizations](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_10)
+- [Chapter 10: Tools and Techniques for Text Mining and Visualizations](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_10)
 - [Chapter 11: Text Data and Mining Ethics](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_11)
-- [Appendix A: Online Repositories Available for Text Mining](https://github.com/textmining-infopros/Appendix-A)
-- [Appendix B: Language Corpora Available for Text Mining](https://github.com/textmining-infopros/Appendix-B)
-- [Appendix C: Text Data and Mining Licensing Conditions](https://github.com/textmining-infopros/Appendix-C)
+- [Appendix A: Online Repositories Available for Text Mining](https://github.com/textmining-infopros/Appendix-A) [![DOI](https://zenodo.org/badge/385467989.svg)](https://zenodo.org/badge/latestdoi/385467989)
+- [Appendix B: Language Corpora Available for Text Mining](https://github.com/textmining-infopros/Appendix-B) [![DOI](https://zenodo.org/badge/386049294.svg)](https://zenodo.org/badge/latestdoi/386049294)
+- [Appendix C: Text Data and Mining Licensing Conditions](https://github.com/textmining-infopros/Appendix-C) [![DOI](https://zenodo.org/badge/386054366.svg)](https://zenodo.org/badge/latestdoi/386054366)
  
 ### Authors
 
