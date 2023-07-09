@@ -20,20 +20,20 @@ From understanding different types and forms of data to case studies showing the
 
 ### Chapters
 
-- Chapter 1: The Computational Library
-- Chapter 2: Text Data and Where to Find Them?
-- Chapter 3: Text Pre-Processing
-- Chapter 4: Topic Modeling
-- Chapter 5: Network Text Analysis
-- Chapter 6: Burst Detection
-- Chapter 7: Sentiment Analysis
-- Chapter 8: Predictive Modeling
-- Chapter 9: Information Visualization
-- Chapter 10: Tools and Techniques for Text Mining and Visualizations
-- Chapter 11: Text Data and Mining Ethics
-- Appendix A: Online Repositories Available for Text Mining
-- Appendix B: Language Corpora Available for Text Mining
-- Appendix C: Text Data and Mining Licensing Conditions
+- [Chapter 1: The Computational Library](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_1)
+- [Chapter 2: Text Data and Where to Find Them?](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_2)
+- [Chapter 3: Text Pre-Processing](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_3)
+- [Chapter 4: Topic Modeling](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_4)
+- [Chapter 5: Network Text Analysis](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_5)
+- [Chapter 6: Burst Detection](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_6)
+- [Chapter 7: Sentiment Analysis](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_7)
+- [Chapter 8: Predictive Modeling](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_8)
+- [Chapter 9: Information Visualization](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_9)
+- Chapter 10: Tools and Techniques for Text Mining and Visualizations](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_10)
+- [Chapter 11: Text Data and Mining Ethics](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_11)
+- [Appendix A: Online Repositories Available for Text Mining](https://github.com/textmining-infopros/Appendix-A)
+- [Appendix B: Language Corpora Available for Text Mining](https://github.com/textmining-infopros/Appendix-B)
+- [Appendix C: Text Data and Mining Licensing Conditions](https://github.com/textmining-infopros/Appendix-C)
  
 ### Authors
 
