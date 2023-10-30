@@ -24,6 +24,7 @@ From understanding different types and forms of data to case studies showing the
    - [Case Study: Clustering of Documents using Two Different Tools](https://github.com/textmining-infopros/chapter1) [![DOI](https://zenodo.org/badge/296729259.svg)](https://zenodo.org/badge/latestdoi/296729259) 
 - [Chapter 2: Text Data and Where to Find Them?](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_2)
 - [Chapter 3: Text Pre-Processing](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_3)
+  - Case Study: An Analysis of Tolkien's Books
 - [Chapter 4: Topic Modeling](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_4)
    - [Case Study: Topic Modeling of Documents using Three Different Tools](https://github.com/textmining-infopros/chapter4) [![DOI](https://zenodo.org/badge/296715177.svg)](https://zenodo.org/badge/latestdoi/296715177)
 - [Chapter 5: Network Text Analysis](https://link.springer.com/chapter/10.1007/978-3-030-85085-2_5)
