@@ -61,7 +61,7 @@ From understanding different types and forms of data to case studies showing the
 
 <br>
 
-### Book Reviews
+### Book Review
 
 O’Rorke, J. K. (2024). Text Mining for Information Professionals: An Uncharted Territory: by Manika Lamba and Margam Madhusudhan, Cham, Switzerland: Springer Cham, 2022, 356pp., $84.99, ISBN 978-3-030-85084-5, DOI 10.1007/978-3-030-85085-2. Journal of Electronic Resources in Medical Libraries, 1–3. https://doi.org/10.1080/15424065.2024.2351113
 
